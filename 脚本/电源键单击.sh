@@ -1,0 +1,1 @@
+/system/bin/input keyevent KEYCODE_POWER

@@ -1,0 +1,1 @@
+am start -n com.android.systemui/com.android.systemui.recents.RecentsActivity

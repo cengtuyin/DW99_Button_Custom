@@ -1,0 +1,1 @@
+am start -n com.android.screenflashlightactivity/com.android.screenflashlightactivity.ScreenFlashLightActivity
