@@ -1,0 +1,6 @@
+id=dw99buttonyin
+name=DW99按键自定义
+author=yin & 酷安@过路的信息萌
+version=1.0.0
+versionCode=1
+description=将手表的左键和电源键劫持，并执行脚本
